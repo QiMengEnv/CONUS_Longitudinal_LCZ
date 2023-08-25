@@ -1,4 +1,4 @@
-![LCZ maps](/LCZ_Maps.tif)
+![LCZ maps](./LCZ_Maps.jpg)
 
 # Project Title
 

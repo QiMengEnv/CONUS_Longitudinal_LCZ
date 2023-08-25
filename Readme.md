@@ -1,4 +1,4 @@
-<img src="./LCZ_Maps.jpg" width="200" />
+<img src="./LCZ_Maps.jpg" width="400" />
 
 # Project Title
 

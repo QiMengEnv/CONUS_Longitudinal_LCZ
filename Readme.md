@@ -1,4 +1,5 @@
 ![LCZ maps](./LCZ_Maps.jpg)
+<img src="./LCZ_Maps.jpg" width="50" />
 
 # Project Title
 

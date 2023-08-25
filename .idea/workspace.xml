@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="796d9134-83d3-4281-acd2-16e67a35e5a7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +32,7 @@
       <updated>1692990142143</updated>
       <workItem from="1692990145013" duration="595000" />
       <workItem from="1692991114891" duration="12000" />
+      <workItem from="1692991286633" duration="401000" />
     </task>
     <servers />
   </component>

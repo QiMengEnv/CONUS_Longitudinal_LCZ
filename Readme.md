@@ -1,8 +1,8 @@
-<img src="./LCZ_Maps.jpg" width="400" />
-
 # Project Title
 
 Mapping Urban Form into Local Climate Zones for the Continental US from 1986-2020
+
+<img src="./LCZ_Maps.jpg" width="400" />
 
 ## Description
 

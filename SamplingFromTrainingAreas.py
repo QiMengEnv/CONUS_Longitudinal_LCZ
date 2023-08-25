@@ -8,6 +8,7 @@ Feature collection for sampled points will be completed on GEE.
 Workflow:
 1. First sample at least 2 points from each TA polygon
 2. Then randomly sample from polygons to approach the defined number of labels
+
 """
 import time
 import pandas as pd

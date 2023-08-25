@@ -4,6 +4,7 @@ Last modified: 07/23/2022
 
 This script is to fine tune a RF model for LCZ;
 Will use the fine-tuned hyper parameters to develop GEE models;
+
 """
 import pandas as pd
 import numpy as np

@@ -4,6 +4,7 @@ Last modified: 07/19/2022
 
 This script is to collect predictors for sampled points from GEE and export the results to Google Drive Folder
 Need to merge the feature collection later
+
 """
 from tqdm import tqdm
 import ee

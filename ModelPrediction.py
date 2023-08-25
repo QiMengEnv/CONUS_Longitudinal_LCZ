@@ -3,6 +3,7 @@ Author: Meng Qi
 Last modified: 07/23/2022
 
 This script is to generate prediction surface using GEE RF models
+
 """
 from tqdm import tqdm
 import ee

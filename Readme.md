@@ -20,3 +20,6 @@ As the final product, this project provides longitudinal LCZ maps with fine spat
 **Author:** [Meng Qi](https://scholar.google.com/citations?user=ycTMzigAAAAJ&hl=en) <br>
 **Principal Investigator:** [Steve Hankey](https://scholar.google.com/citations?user=HLK7uAkAAAAJ&hl=en) <br>
 **Affiliation:** [Virginia Tech, School of Public and International Affairs](https://spia.vt.edu/) <br>
+
+## Cite
+Qi, M., Xu, C., Zhang, W. et al. Mapping urban form into local climate zones for the continental US from 1986–2020. Sci Data 11, 195 (2024). https://doi.org/10.1038/s41597-024-03042-4
